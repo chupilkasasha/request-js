@@ -1,0 +1,24 @@
+.section{
+	width: 1170px;
+	margin: 25px auto;
+}
+
+.section p{
+	margin: 0 auto;
+	padding: 10px;
+	color: #4098b1;
+}
+
+.wrap-calc{
+	background: #eee;
+	display: flex;
+	flex-direction: column;
+	width: 200px;
+	margin: 0 auto;
+	padding: 10px;
+}
+
+.btn{
+	margin-top: 10px;
+	width: 80px;
+}
